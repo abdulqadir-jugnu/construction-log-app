@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Construction Log App</string>
+
+    <string-array name="Service_Category">
+        <item></item>
+        <item>Contractor</item>
+        <item>Mason</item>
+        <item>Labourer</item>
+        <item>Electrician</item>
+        <item>Carpenter</item>
+        <item>Plumber</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="Account_Type">
+        <item>Admin</item>
+        <item>User</item>
+        <item>Client</item>
+    </string-array>
+</resources>
